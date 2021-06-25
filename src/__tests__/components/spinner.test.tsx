@@ -18,7 +18,7 @@ it("renders correctly", () => {
         >
           <image
             height="96"
-            href="/images/egg/9.png"
+            href="/images/toba/9.png"
             width="96"
           />
         </svg>
